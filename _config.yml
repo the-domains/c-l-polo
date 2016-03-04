@@ -1,19 +1,4 @@
-name: C.L. Polo
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.32153771654702723
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#3C493F'
@@ -22,7 +7,12 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0
-  lightness: 1
-  saturation: 0.5
+  lightness: 0.978618
   rhythmicContrast: 0.75
+  saturation: 0.490131
+cta: {}
+layout_spectrum: 1
+name: C.L. Polo
+opengraph: {}
 purpose: []
+typography_spectrum: 0.32153771654702723
